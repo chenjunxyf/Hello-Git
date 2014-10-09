@@ -1,8 +1,10 @@
 Hello-Git
 =========
 
-My first github project!
+#markdown
 
-I will use it to control my code;
+>My first github project!
 
-come On!!
+>I will use it to control my code;
+
+>come On!!
